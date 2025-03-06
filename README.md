@@ -2,7 +2,7 @@
 
 **Building tech, believing in humanity.**  
 
-I’ve spent the past **15 years** at the intersection of **AI, cybersecurity, and innovation**, building **large-scale solutions** that help people and organizations worldwide across diverse sectors and technologies. From **securing Web3 fraud detection** at Blockfence to **eliminating security bottlenecks** at Rezilion (acquired by GitLab), PayPal, and Intel—I've worked on pushing the boundaries of security and automation.  
+I’ve spent the past **15 years** at the intersection of **AI, cybersecurity, and innovation**, building **large-scale solutions** that help people and organizations worldwide across diverse sectors and technologies. From **Web3 fraud detection** to **DevSecOps** and **incident response** — I've worked on pushing the boundaries of security and automation.  
 
 Along the way, I’ve **published patents and research papers** exploring how AI can tackle **complex cybersecurity challenges**, turning cutting-edge ideas into **real-world impact**.  
 
@@ -17,7 +17,7 @@ I’m fascinated by how we can **learn from nature and biology** to shape techno
 - **Scaling Innovation** – From startups to Fortune 10, I turn ideas into impact.  
 
 🛠️ **Patents & Research** in AI security, cloud resilience, and ML-driven threat detection.  
-🌍 **Previously:** Blockfence, Rezilion, PayPal, Intel.  
+🌍 **Previously:** Blockfence, Rezilion (acquired by GitLab), PayPal, Intel, BGU Malware Lab, and more...
 📍 **Based in Spain.**  
 
 Let’s connect → [**LinkedIn**](https://www.linkedin.com/in/omrilahav/) | [**GitHub**](https://github.com/omrilahav)  
