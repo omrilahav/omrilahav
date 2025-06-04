@@ -18,7 +18,8 @@ I’m fascinated by how we can **learn from nature and biology** to shape techno
 - **DevSecOps for AI**: Making security frictionless for builders.  
 - **Scaling Innovation**: From startups to Fortune 10, I turn ideas into impact.  
 
-🛠️ [**Patents & Research**](https://scholar.google.ae/citations?user=IQh2AKQAAAAJ&hl=iw) in AI security, cloud resilience, and ML-driven threat detection: 
+🛠️ [**Patents & Research**](https://scholar.google.ae/citations?user=IQh2AKQAAAAJ&hl=iw) in AI security, cloud resilience, and ML-driven threat detection.
+
 🌍 **Previously:** Blockfence, Rezilion (acquired by GitLab), PayPal, Intel, BGU Malware Lab, and more...
 
 
