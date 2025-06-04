@@ -6,7 +6,7 @@ I’ve spent the past **15 years** at the intersection of **AI, cybersecurity, a
 
 Along the way, I’ve **published patents and research papers** exploring how AI can tackle **complex cybersecurity challenges**, turning cutting-edge ideas into **real-world impact**.  
 
-I’m fascinated by how we can **learn from nature and biology** to shape technology—tapping into billions of years of intelligence to build a safer, more resilient digital world.  
+I’m fascinated by how we can **learn from nature and biology** to shape technology into billions of years of intelligence to build a safer, more resilient digital world.  
 
 
 ### 🚀 Currently Building: **Cylestio**  
